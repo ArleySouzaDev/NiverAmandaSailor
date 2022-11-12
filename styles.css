@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0.1rem;
+    box-sizing: border-box;
+    
+        
+}
+body {
+    color: #fff;
+    background-image: url(img/gifFullSailor.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
